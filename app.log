@@ -1,0 +1,233 @@
+2023-06-14 02:54:02,692 INFO root Starting application
+2023-06-14 02:54:04,779 INFO root PIR is ready
+2023-06-14 02:54:07,193 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 02:54:07,292 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 02:54:07,302 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 02:54:07,562 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 02:54:34,734 INFO root Starting application
+2023-06-14 02:54:36,808 INFO root PIR is ready
+2023-06-14 02:54:37,344 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 02:54:37,436 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 02:54:37,443 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 02:54:37,706 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 02:54:37,787 INFO root AC is on
+2023-06-14 02:54:40,853 INFO root Turning on light
+2023-06-14 02:55:20,463 INFO root HVAC is off
+2023-06-14 02:55:52,228 INFO root AC is on
+2023-06-14 02:56:41,057 INFO root Turning off light
+2023-06-14 02:57:39,055 INFO root AC is on
+2023-06-14 02:57:42,117 INFO root Turning on light
+2023-06-14 03:08:23,773 INFO root Starting application
+2023-06-14 03:08:25,845 INFO root PIR is ready
+2023-06-14 03:08:27,632 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 03:08:27,735 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 03:08:27,743 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 03:08:38,414 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 400 35
+2023-06-14 03:10:01,652 INFO root Starting application
+2023-06-14 03:10:03,655 INFO root PIR is ready
+2023-06-14 03:10:03,655 INFO root Turning on light
+2023-06-14 03:10:47,739 INFO root Starting application
+2023-06-14 03:10:49,742 INFO root PIR is ready
+2023-06-14 03:10:49,742 INFO root Turning on light
+2023-06-14 03:12:22,510 INFO root Starting application
+2023-06-14 03:12:24,513 INFO root PIR is ready
+2023-06-14 03:12:24,513 INFO root Turning on light
+2023-06-14 03:20:53,367 INFO root Starting application
+2023-06-14 03:20:55,370 INFO root PIR is ready
+2023-06-14 03:20:55,370 INFO root Turning on light
+2023-06-14 03:23:33,251 INFO root Starting application
+2023-06-14 03:23:35,254 INFO root PIR is ready
+2023-06-14 03:23:35,254 INFO root Turning on light
+2023-06-14 03:24:09,648 INFO root Starting application
+2023-06-14 03:24:11,651 INFO root PIR is ready
+2023-06-14 03:24:11,651 INFO root Turning on light
+2023-06-14 03:30:28,531 INFO root Starting application
+2023-06-14 03:30:30,533 INFO root PIR is ready
+2023-06-14 03:30:30,534 INFO root Turning on light
+2023-06-14 03:33:44,760 INFO root Starting application
+2023-06-14 03:33:46,762 INFO root PIR is ready
+2023-06-14 03:33:46,762 INFO root Turning on light
+2023-06-14 03:34:44,487 INFO root Starting application
+2023-06-14 03:34:46,490 INFO root PIR is ready
+2023-06-14 03:34:46,490 INFO root Turning on light
+2023-06-14 03:35:18,039 INFO root Starting application
+2023-06-14 03:35:20,039 INFO root PIR is ready
+2023-06-14 03:35:20,040 INFO root Turning on light
+2023-06-14 03:36:21,828 INFO root Starting application
+2023-06-14 03:36:23,830 INFO root PIR is ready
+2023-06-14 03:38:28,024 INFO root Starting application
+2023-06-14 03:38:30,026 INFO root PIR is ready
+2023-06-14 03:38:30,027 INFO root Turning on light
+2023-06-14 03:40:10,275 INFO root Starting application
+2023-06-14 03:40:12,278 INFO root PIR is ready
+2023-06-14 03:40:12,278 INFO root Turning on light
+2023-06-14 03:41:41,163 INFO root Starting application
+2023-06-14 03:41:43,166 INFO root PIR is ready
+2023-06-14 03:41:43,166 INFO root Turning on light
+2023-06-14 03:41:58,830 INFO root Starting application
+2023-06-14 03:42:00,832 INFO root PIR is ready
+2023-06-14 03:42:00,833 INFO root Turning on light
+2023-06-14 03:48:22,590 INFO root Starting application
+2023-06-14 03:48:24,592 INFO root PIR is ready
+2023-06-14 03:48:24,593 INFO root Turning on light
+2023-06-14 03:48:59,346 INFO root Starting application
+2023-06-14 03:49:01,349 INFO root PIR is ready
+2023-06-14 03:49:01,349 INFO root Turning on light
+2023-06-14 03:50:15,765 INFO root Starting application
+2023-06-14 03:50:17,768 INFO root PIR is ready
+2023-06-14 03:50:17,855 INFO root Turning off light
+2023-06-14 03:50:18,943 INFO root Turning off light
+2023-06-14 03:50:20,031 INFO root Turning off light
+2023-06-14 03:50:21,123 INFO root Turning off light
+2023-06-14 03:50:22,221 INFO root Turning off light
+2023-06-14 03:50:23,313 INFO root Turning off light
+2023-06-14 03:50:24,404 INFO root Turning off light
+2023-06-14 03:50:25,497 INFO root Turning off light
+2023-06-14 03:50:26,590 INFO root Turning off light
+2023-06-14 03:50:27,682 INFO root Turning off light
+2023-06-14 03:50:28,773 INFO root Turning off light
+2023-06-14 03:50:29,867 INFO root Turning off light
+2023-06-14 03:50:30,956 INFO root Turning off light
+2023-06-14 03:50:32,049 INFO root Turning off light
+2023-06-14 03:50:33,141 INFO root Turning off light
+2023-06-14 03:50:34,233 INFO root Turning off light
+2023-06-14 03:50:35,325 INFO root Turning off light
+2023-06-14 03:50:36,326 INFO root Turning on light
+2023-06-14 03:50:55,550 INFO root Turning off light
+2023-06-14 03:50:56,640 INFO root Turning off light
+2023-06-14 03:50:57,728 INFO root Turning off light
+2023-06-14 03:50:58,818 INFO root Turning off light
+2023-06-14 03:50:59,912 INFO root Turning off light
+2023-06-14 03:51:01,002 INFO root Turning off light
+2023-06-14 03:51:02,093 INFO root Turning off light
+2023-06-14 03:51:03,180 INFO root Turning off light
+2023-06-14 03:51:04,269 INFO root Turning off light
+2023-06-14 03:51:04,546 INFO root Turning off light
+2023-06-14 03:51:05,272 INFO root Turning on light
+2023-06-14 03:51:16,475 INFO root Turning off light
+2023-06-14 03:51:17,565 INFO root Turning off light
+2023-06-14 03:51:18,655 INFO root Turning off light
+2023-06-14 03:51:19,754 INFO root Turning off light
+2023-06-14 03:51:20,847 INFO root Turning off light
+2023-06-14 03:51:21,938 INFO root Turning off light
+2023-06-14 03:51:22,940 INFO root Turning on light
+2023-06-14 03:51:25,476 INFO root Turning off light
+2023-06-14 03:51:26,032 INFO root Turning on light
+2023-06-14 03:51:35,117 INFO root Turning off light
+2023-06-14 03:51:35,295 INFO root Turning on light
+2023-06-14 03:51:44,384 INFO root Turning off light
+2023-06-14 03:51:44,392 INFO root Turning on light
+2023-06-14 03:51:53,479 INFO root Turning off light
+2023-06-14 03:51:53,490 INFO root Turning on light
+2023-06-14 03:52:02,575 INFO root Turning off light
+2023-06-14 03:52:02,596 INFO root Turning on light
+2023-06-14 03:52:11,684 INFO root Turning off light
+2023-06-14 03:52:11,698 INFO root Turning on light
+2023-06-14 03:52:20,785 INFO root Turning off light
+2023-06-14 03:52:20,799 INFO root Turning on light
+2023-06-14 03:52:29,885 INFO root Turning off light
+2023-06-14 03:52:29,906 INFO root Turning on light
+2023-06-14 03:52:38,992 INFO root Turning off light
+2023-06-14 03:52:39,011 INFO root Turning on light
+2023-06-14 03:52:48,098 INFO root Turning off light
+2023-06-14 03:52:48,115 INFO root Turning on light
+2023-06-14 03:53:07,523 INFO root Starting application
+2023-06-14 03:53:09,525 INFO root PIR is ready
+2023-06-14 03:53:09,526 INFO root Turning on light
+2023-06-14 03:56:40,848 INFO root Starting application
+2023-06-14 03:56:42,850 INFO root PIR is ready
+2023-06-14 03:56:42,851 INFO root Turning on light
+2023-06-14 03:57:10,071 INFO root Turning off light
+2023-06-14 03:57:11,159 INFO root Turning off light
+2023-06-14 03:57:12,249 INFO root Turning off light
+2023-06-14 03:57:13,339 INFO root Turning off light
+2023-06-14 03:57:14,431 INFO root Turning off light
+2023-06-14 03:57:15,433 INFO root Turning on light
+2023-06-14 03:57:19,065 INFO root Turning off light
+2023-06-14 03:57:19,522 INFO root Turning on light
+2023-06-14 03:57:28,611 INFO root Turning off light
+2023-06-14 03:57:28,618 INFO root Turning on light
+2023-06-14 03:57:37,704 INFO root Turning off light
+2023-06-14 03:57:37,718 INFO root Turning on light
+2023-06-14 03:57:46,809 INFO root Turning off light
+2023-06-14 03:57:46,822 INFO root Turning on light
+2023-06-14 03:57:55,911 INFO root Turning off light
+2023-06-14 03:57:55,930 INFO root Turning on light
+2023-06-14 03:58:05,020 INFO root Turning off light
+2023-06-14 03:58:05,032 INFO root Turning on light
+2023-06-14 03:58:14,117 INFO root Turning off light
+2023-06-14 03:58:14,141 INFO root Turning on light
+2023-06-14 03:58:23,228 INFO root Turning off light
+2023-06-14 03:58:23,239 INFO root Turning on light
+2023-06-14 03:58:32,327 INFO root Turning off light
+2023-06-14 03:58:32,341 INFO root Turning on light
+2023-06-14 03:58:41,427 INFO root Turning off light
+2023-06-14 03:58:41,464 INFO root Turning on light
+2023-06-14 03:58:50,550 INFO root Turning off light
+2023-06-14 03:58:50,575 INFO root Turning on light
+2023-06-14 03:58:56,952 INFO root Starting application
+2023-06-14 03:58:58,955 INFO root PIR is ready
+2023-06-14 04:00:11,229 INFO root Starting application
+2023-06-14 04:00:13,232 INFO root PIR is ready
+2023-06-14 04:12:19,782 INFO root Starting application
+2023-06-14 04:12:21,785 INFO root PIR is ready
+2023-06-14 04:12:21,785 INFO root Turning on light
+2023-06-14 04:13:00,019 INFO root Turning off light
+2023-06-14 04:13:01,020 INFO root Turning on light
+2023-06-14 04:13:09,018 INFO root Turning off light
+2023-06-14 04:13:09,125 INFO root Turning on light
+2023-06-14 04:13:18,209 INFO root Turning off light
+2023-06-14 04:13:18,222 INFO root Turning on light
+2023-06-14 04:13:27,308 INFO root Turning off light
+2023-06-14 04:13:27,325 INFO root Turning on light
+2023-06-14 04:13:36,410 INFO root Turning off light
+2023-06-14 04:13:36,424 INFO root Turning on light
+2023-06-14 04:13:45,510 INFO root Turning off light
+2023-06-14 04:13:45,522 INFO root Turning on light
+2023-06-14 04:13:54,608 INFO root Turning off light
+2023-06-14 04:13:54,623 INFO root Turning on light
+2023-06-14 04:14:03,709 INFO root Turning off light
+2023-06-14 04:14:03,725 INFO root Turning on light
+2023-06-14 04:15:12,403 INFO root Starting application
+2023-06-14 04:15:14,486 INFO root PIR is ready
+2023-06-14 04:15:15,018 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 04:15:15,230 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 04:15:15,234 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 04:15:16,263 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 04:15:16,344 INFO root AC is on
+2023-06-14 04:15:19,409 INFO root Turning on light
+2023-06-14 04:15:29,640 INFO root Starting application
+2023-06-14 04:15:31,721 INFO root PIR is ready
+2023-06-14 04:15:32,253 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 04:15:32,571 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 04:15:32,576 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 04:15:34,036 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 04:15:34,122 INFO root AC is on
+2023-06-14 04:15:37,189 INFO root Turning on light
+2023-06-14 04:15:54,394 INFO root Starting application
+2023-06-14 04:15:56,466 INFO root PIR is ready
+2023-06-14 04:15:57,623 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 04:15:57,730 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 04:15:57,739 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 04:15:58,432 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 04:15:58,503 INFO root AC is on
+2023-06-14 04:16:01,572 INFO root Turning on light
+2023-06-14 04:39:58,524 INFO root Starting application
+2023-06-14 04:40:00,609 INFO root PIR is ready
+2023-06-14 04:40:03,645 DEBUG urllib3.connectionpool Starting new HTTP connection (1): et.water.ca.gov:80
+2023-06-14 04:40:03,763 DEBUG urllib3.connectionpool http://et.water.ca.gov:80 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 302 0
+2023-06-14 04:40:03,773 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): et.water.ca.gov:443
+2023-06-14 04:40:04,459 DEBUG urllib3.connectionpool https://et.water.ca.gov:443 "GET /api/data?appKey=1b89487e-3945-4c58-8545-94b9c35d6a26&targets=75&startDate=2023-06-12&endDate=2023-06-12 HTTP/1.1" 200 1059
+2023-06-14 04:40:04,531 INFO root AC is on
+2023-06-14 04:40:07,601 INFO root Turning on light
+2023-06-14 04:41:20,937 INFO root HVAC is off
+2023-06-14 04:41:29,571 INFO root AC is on
+2023-06-14 04:41:54,715 INFO root Door is open
+2023-06-14 04:41:56,715 INFO root HVAC is off
+2023-06-14 04:42:02,831 INFO root Door is closed
+2023-06-14 04:42:04,085 INFO root AC is on
+2023-06-14 04:43:22,205 INFO root Fire alarm is started
+2023-06-14 04:43:26,108 INFO root Turning off light
+2023-06-14 04:44:07,464 INFO root Fire alarm is stopped
+2023-06-14 04:44:09,578 INFO root AC is on
+2023-06-14 04:44:12,642 INFO root Turning on light
